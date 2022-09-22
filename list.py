@@ -1,8 +1,3 @@
-from argparse import MetavarTypeHelpFormatter
-from cgi import print_arguments
-from mailcap import findmatch
-
-
 mylist = ['apple', 'orange', 'pineapple']
 print(mylist)
 
